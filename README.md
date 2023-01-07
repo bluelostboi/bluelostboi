@@ -1,1 +1,1 @@
-Data Science and Computer Vision Fan
+Data Science, Computer Vision and other cool computer stuff.
